@@ -1,0 +1,37 @@
+/* 
+  Localizable.strings
+  WeatherAppDemo
+
+  Created by Debarshee Ghosh on 9/5/24.
+  
+*/
+
+// Common
+"ok" = "Ok";
+"cancel" = "Cancel";
+"open.Settings" = "Open Settings";
+"error" = "Error";
+
+// Search/Detail Screen
+"search.City" = "Search City";
+"city.Name" = "City Name";
+"weather.Condition" = "Weather Condition";
+"temperature" = "Temperature";
+"temperature.Min" = "Temperature Min";
+"temperature.Max" = "Temperature Max";
+"feels.Like" = "Feels Like";
+"visibility" = "Visibility";
+"humidity" = "Humidity";
+"atmospheric.Pressure" = "Atmospheric Pressure";
+"wind.Speed" = "Wind Speed";
+"weather.Details" = "Weather Details";
+"show.More" = "Show More";
+
+//Alert
+"location.Disabled" = "Location Services Disabled";
+"enable.location.Message" = "Please enable location services in Settings.";
+"name.short" = "Name too short!";
+"data.Incomplete" = "Data Incomplete!";
+"valid.City.Message" = "Provide a valid city name.";
+"data.Not.Sufficient" = "Weather data is not sufficient for this city/location.";
+"generic.Error" = "Something went wrong. Please try again later!!!";
